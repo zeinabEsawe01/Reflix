@@ -1,0 +1,16 @@
+export const  MOVIES =
+[
+    { id: 0, isRented: false, title: "Messi Blinders", year: 1999, img: "https://pbs.twimg.com/media/FdWmB9GXEAAk72c?format=jpg&name=4096x4096", descrShort: "Tarzan was born into wealth but raised into incredible misfortune. Shiprweck, parents mauled by a jaguar. Luckily, a troop of gorillas took him in, but the Big Daddy gorilla never took a liking to him. That is, until the end when it's too late. Why is it too late? Watch and find out." },
+    { id: 1, isRented: true, title: "Meesatrix", img: "https://pbs.twimg.com/media/FIobq6yXEAA8Fi3.jpg:large", year: 1994, descrShort: "A young lion prince named Simba is born into wealth but raised into incredible misfortune. Trickster uncle, dying father, usurpation. Luckily, an unlikely meerkat-warthog pair take him in and teach him The Ways of the Bum Life. Be prepared for ghostly hallucinations, wild baboons, creepy crawlies." },
+    { id: 2, isRented: false, title: "La Casa De Messi", year: 1991, img: "https://pbs.twimg.com/media/EVGsmasUMAAwqcY.jpg", descrShort: "A kickass woman named Belle who does not succumb to social norms gets crap from a bunch of village idiots, chief amongst them a total tool named Gaston. Belle shows everyone how great she is when she turns a beast (not Gaston) into a man. Love ensues, but then the villagers fall trap to severe group-think mentality led by the main tool himself." },
+    { id: 3, isRented: false, title: "Game of Messi's Thrones", year: 1963, img: "https://pbs.twimg.com/media/E5_H6PgVkAIiQBP.jpg:large", descrShort: "Arthur is a young boy who just wants to be a knight's squire. Alas, he is dubbed 'Wart' early on, and it was all downhill from there for a while. On a hunting trip he falls in on Merlin, literally. Merlin is a possibly-mentally-unstable-and-ethically-dubious Wizard that turns Arthur into a literate, at-one-point harassed squirrel. Watch to find out what the heck that means." },
+    { id: 4, isRented: false, title: "Messiking", year: 2016, img: "https://i.pinimg.com/736x/ad/1b/56/ad1b56dd2d90e2931cbf0cd7209a5846.jpg", descrShort: "Basically the same as the original, except now Hermi-- Emma Wattson plays Belle, fittingly so some would say, given how actively progressive she is regarding women's rights. Rumor has it that in the bonus scenes she whips out a wand and turns Gaston into a toad, but in order to watch those scenes you need to recite a certain incantation." }
+]
+
+export const USERS=
+[
+    {id:0 , name:"Neymar" , img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3MeQolbcXYjut4_ep1BrQa6-FjNht6OiLA&usqp=CAU" },
+    {id:0 , name:"De Paul" , img:"https://talksport.com/wp-content/uploads/sites/5/2023/02/crop-1325445.jpg?strip=all&quality=100&w=577&h=384&crop=1" },
+    {id:0 , name:"Guardiola" , img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjI7xNWcNYK-s9WZlI6_2p32AWfIesKoGPw&usqp=CAU" },
+    {id:0 , name:"Suarez" , img:"https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/A950/production/_114244334_suarez.jpg" },
+]
